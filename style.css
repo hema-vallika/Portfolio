@@ -1481,7 +1481,12 @@ font-size: .7rem;
     .showcase-area .heading{
         font-size: 2.4rem;
     }
-
+    .about{
+        padding-top: 0;
+    }
+    .about-grid{
+        padding-top: 20px;
+    }
     .skills-box{
         padding: 3rem 2.5rem;
     }
